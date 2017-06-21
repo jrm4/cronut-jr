@@ -11,7 +11,7 @@ $currsub->setFirstname("Bill");
 
 $currsub->setLastname("Jones");
 
-$currsub->setAge("100 tacos");
+$currsub->setAge("35"); // hey, remember what happened when I put '100 tacos?' weird
 
 
 
